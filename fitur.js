@@ -85,7 +85,7 @@ const apikey = JSON.parse(fs.readFileSync('./config/apikey.json'))
 //FOTO
 const fakeimage = fs.readFileSync("./media/foto/fakeimg.jpg"); 
 const fthumb = fs.readFileSync("./media/foto/thumb.jpg");
-const thumb = fs.readFileSync("./media/foto/IMG-20220419-WA0059.jpg");
+const thumb = fs.readFileSync("./media/foto/thumb.jpg");
 const menu = fs.readFileSync("./media/foto/menu.jpg"); 
 const imgqris = fs.readFileSync("./media/foto/qris.jpg");
 //VIDEO
